@@ -4,4 +4,4 @@ applications:
   memory: 128M
   buildpack: sdk-for-nodejs
   services:
-  - Matterhorn
+  - Internet of Things Platform-Vera
